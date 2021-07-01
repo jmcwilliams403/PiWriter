@@ -17,4 +17,4 @@ Power Supply: https://www.amazon.com/Anker-5-Port-Charger-PowerPort-iPhone/dp/B0
 
 Operating System: https://dietpi.com/
 
-Autoload Application: http://cowlark.com/wordgrinder/
+Autoload Application: https://github.com/davidgiven/wordgrinder
