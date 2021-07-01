@@ -5,6 +5,8 @@ Case: https://www.thingiverse.com/thing:4846997
 
 Screen: https://www.good-display.com/product/251.html
 
+Display Adapter: https://www.good-display.com/product/254.html
+
 Keyboard: https://kbdfans.com/collections/60-fully-assembled/products/fully-assembled-plastic-case-mechanical-keyboard
 
 Keycaps: https://pimpmykeyboard.com/all-products/keycaps/
