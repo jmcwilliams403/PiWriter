@@ -3,9 +3,7 @@ A Raspberry Pi based hardware word processor, mostly composed of pre-existing co
 
 Case: https://www.thingiverse.com/thing:4846997
 
-Screen: https://www.good-display.com/product/251.html
-
-Display Adapter: https://www.good-display.com/product/254.html
+Display: https://www.waveshare.com/product/displays/e-paper/7.8inch-hdmi-e-paper.htm
 
 Keyboard: https://kbdfans.com/collections/60-fully-assembled/products/fully-assembled-plastic-case-mechanical-keyboard
 
