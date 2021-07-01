@@ -15,6 +15,6 @@ Raspberry Pi Zero W: https://www.adafruit.com/product/3708
 
 Power Supply: https://www.amazon.com/Anker-5-Port-Charger-PowerPort-iPhone/dp/B00VH8ZW02/ref=psdc_2407761011_t2_B018Q36HGI
 
-Operating System: https://dietpi.com/
+Operating System: https://github.com/MichaIng/DietPi
 
 Autoload Application: https://github.com/davidgiven/wordgrinder
