@@ -13,6 +13,8 @@ Keycaps: https://pimpmykeyboard.com/all-products/keycaps/
 
 Raspberry Pi: https://www.raspberrypi.org/products/raspberry-pi-4-model-b/
 
+Power Supply: https://www.amazon.com/Anker-5-Port-Charger-PowerPort-iPhone/dp/B00VH8ZW02/ref=psdc_2407761011_t2_B018Q36HGI
+
 Operating System: https://dietpi.com/
 
 Autoload Application: http://cowlark.com/wordgrinder/
