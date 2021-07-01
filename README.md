@@ -1,7 +1,7 @@
 # PiWriter
 A Raspberry Pi based hardware word processor, mostly composed of pre-existing components and software
 
-Raspberry Pi Zero W: https://www.adafruit.com/product/3409
+Raspberry Pi Zero W: https://www.adafruit.com/product/3400
 
 Case: https://www.thingiverse.com/thing:4846997
 
