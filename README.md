@@ -11,7 +11,7 @@ Keyboard: https://kbdfans.com/collections/60-fully-assembled/products/fully-asse
 
 Keycaps: https://pimpmykeyboard.com/all-products/keycaps/
 
-Power Supply: https://www.amazon.com/Anker-5-Port-Charger-PowerPort-iPhone/dp/B00VH8ZW02/ref=psdc_2407761011_t2_B018Q36HGI
+Power Supply: https://www.amazon.com/Anker-5-Port-Charger-PowerPort-iPhone/dp/B00VH8ZW02
 
 Operating System: https://github.com/MichaIng/DietPi
 
